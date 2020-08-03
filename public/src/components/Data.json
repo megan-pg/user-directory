@@ -1,0 +1,23 @@
+[
+    {
+		"First_Name": "Megan",
+		"Last_Name": "Pardy",
+		"Phone_number": "(867) 867-5309",
+		"Email": "megan.pardy@company.com",
+		"Department": "Project Team"
+	},
+	{
+		"First_Name": "Alyssa",
+		"Last_Name": "Rodriguez",
+		"Phone_number": "(123) 456-7890",
+		"Email": "alyssa.rodriguez@company.com",
+		"Department": "Art Department"
+	},
+	{
+		"First_Name": "Kera",
+		"Last_Name": "Blay",
+		"Phone_number": "(555) 666-8888",
+		"Email": "kera.blay@company.com",
+		"Department": "Art Department"
+    }
+]
